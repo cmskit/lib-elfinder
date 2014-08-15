@@ -1,6 +1,8 @@
 elFinder
 ========
 
+Production bundle for:
+
 <pre>
       _ ______ _           _           
      | |  ____(_)         | |          
