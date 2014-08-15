@@ -1,0 +1,18 @@
+{
+    "name": "cms-kit vendor library elfinder",
+    "type": "library",
+    "version": "0.9.0",
+    "description": "",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Christoph Taubmann",
+            "email": "info@cms-kit.com"
+        }
+    ],
+    "homepage": "http://cms-kit.com",
+
+    "require": {
+        "php": ">=5.3.3"
+    }
+}
